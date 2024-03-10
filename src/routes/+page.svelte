@@ -146,7 +146,7 @@
 	}
 
 	.grid {
-		$size: 8rem;
+		$size: 6rem;
 
 		display: grid;
 		grid-template-columns: repeat(3, $size);
